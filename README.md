@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ThaisaFujii
-- 👀 I’m interested in learn new things, travel and eat good food
+- 👋 Hey there, I’m @ThaisaFujii
+- 👀 I’m interested in learn new things and travel the world
 - 🌱 I’m currently studying Software Engineer at FIAP in São Paulo
-- 💞️ I’m looking to collaborate on ... (idk, still new on github)
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on nice projects
+- 📫 How to reach me on Linkedin
 
 <!---
 ThaisaFujii/ThaisaFujii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
