@@ -1,6 +1,6 @@
   ## Hey there, I’m @ThaisaFujii
 - 👀 I’m interested in learn new things and travel the world                                               
-- 💞️ I’m looking to collaborate on nice projects
+- 💞️ I’m looking forward to collaborate on nice projects
 - 🌱 I’m currently studying Software Engineer at FIAP in São Paulo, Brazil                                        
 - 📫 Reach me out on Linkedin
 
