@@ -3,6 +3,7 @@
 - 💞️ I’m looking forward to collaborate on nice projects
 - 🌱 I’m currently studying Software Engineer at FIAP in São Paulo, Brazil                                        
 - 📫 Reach me out on Linkedin
+- https://exercism.org/profiles/ThaisaFujii
 
 <div>
   <a href="https://github.com/ThaisaFujii">
